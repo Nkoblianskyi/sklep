@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "src": "/image1.jpg",
+        "name": "Cammile",
+        "price": "$65"
+    },
+    {
+        "id": 2,
+        "src": "/image2.jpg",
+        "name": "Cammile",
+        "price": "$100"
+    },
+    {
+        "id": 3,
+        "src": "/image3.jpg",
+        "name": "Cammile",
+        "price": "$85"
+    },
+    {
+        "id": 4,
+        "src": "/image1.jpg",
+        "name": "Cammile",
+        "price": "$75"
+    },
+    {
+        "id": 5,
+        "src": "/image2.jpg",
+        "name": "Cammile",
+        "price": "$90"
+    },
+    {
+        "id": 6,
+        "src": "/image3.jpg",
+        "name": "Cammile",
+        "price": "$80"
+    },
+    {
+        "id": 7,
+        "src": "/image1.jpg",
+        "name": "Cammile",
+        "price": "$75"
+    },
+    {
+        "id": 8,
+        "src": "/image2.jpg",
+        "name": "Cammile",
+        "price": "$90"
+    },
+    {
+        "id": 9,
+        "src": "/image3.jpg",
+        "name": "Cammile",
+        "price": "$80"
+    },
+    {
+        "id": 10,
+        "src": "/image3.jpg",
+        "name": "Cammile",
+        "price": "$80"
+    },
+    {
+        "id": 11,
+        "src": "/image3.jpg",
+        "name": "Cammile",
+        "price": "$80"
+    },
+    {
+        "id": 12,
+        "src": "/image3.jpg",
+        "name": "Cammile",
+        "price": "$80"
+    }
+]
