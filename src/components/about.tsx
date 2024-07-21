@@ -1,9 +1,9 @@
 import { Present } from "../elements/present"
 
 const itemPresent = [
-    { src:'/room1.jpg', alt: 'room', back:'/fgrad.jpg', text:'Living room'},
-    { src:'/room2.jpg', alt: 'room', back:'/fgrad.jpg', text:'Working cabinet'},
-    { src:'/room3.jpg', alt: 'room', back:'/fgrad.jpg', text:'Antechamber'},
+    { src:`${process.env.PUBLIC_URL}/room1.jpg`, alt: 'room', back:`${process.env.PUBLIC_URL}/fgrad.jpg`, text:'Living room'},
+    { src:`${process.env.PUBLIC_URL}/room2.jpg`, alt: 'room', back:`${process.env.PUBLIC_URL}/fgrad.jpg`, text:'Working cabinet'},
+    { src:`${process.env.PUBLIC_URL}/room3.jpg`, alt: 'room', back:`${process.env.PUBLIC_URL}/fgrad.jpg`, text:'Antechamber'},
 ]
 
 
