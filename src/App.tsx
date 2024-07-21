@@ -1,4 +1,4 @@
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { Route, HashRouter as Router, Routes } from "react-router-dom";
 import { Preview } from "./components/preview";
 import { Hero } from "./components/hero";
 import { About } from "./components/about";
