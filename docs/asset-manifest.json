@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Nkoblianskyi/sklep/static/css/main.b29e033c.css",
-    "main.js": "/Nkoblianskyi/sklep/static/js/main.649e8fa5.js",
-    "index.html": "/Nkoblianskyi/sklep/index.html",
-    "main.b29e033c.css.map": "/Nkoblianskyi/sklep/static/css/main.b29e033c.css.map",
-    "main.649e8fa5.js.map": "/Nkoblianskyi/sklep/static/js/main.649e8fa5.js.map"
+    "main.css": "/sklep/static/css/main.b29e033c.css",
+    "main.js": "/sklep/static/js/main.649e8fa5.js",
+    "index.html": "/sklep/index.html",
+    "main.b29e033c.css.map": "/sklep/static/css/main.b29e033c.css.map",
+    "main.649e8fa5.js.map": "/sklep/static/js/main.649e8fa5.js.map"
   },
   "entrypoints": [
     "static/css/main.b29e033c.css",
