@@ -16,3 +16,18 @@
                 background-image: linear-gradient(90deg, #2AF598 0%, #009EFD 100%)
                 -webkit-background-clip: text /* Налаштування для WebKit (Safari, Chrome) */
                 background-clip: text
+
+@media (max-width: 768px)
+    .menu
+        gap: 30px
+
+        &-item-link
+            font-size: 20px
+
+@media (max-width: 480px)
+    .menu
+        gap: 15px
+
+        &-item-link
+            font-size: 18px
+            line-height: 24px
