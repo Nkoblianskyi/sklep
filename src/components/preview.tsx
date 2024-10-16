@@ -51,7 +51,7 @@ export const Preview = () => {
             <div className="preview-popular">
                 <div className="preview-popular-left">
                     <h1 className="preview-popular-left-title">
-                        Best Seller Product
+                        Best Seller <br></br>Product
                     </h1>
                     <Link to="/shop" className="preview-popular-left-btn">
                         See all collection

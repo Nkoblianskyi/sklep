@@ -106,11 +106,5 @@
         "src": "/sklep/image1.jpg",
         "name": "Cammile",
         "price": "$80"
-    },
-    {
-        "id": 19,
-        "src": "/sklep/image1.jpg",
-        "name": "Cammile",
-        "price": "$80"
     }
 ]

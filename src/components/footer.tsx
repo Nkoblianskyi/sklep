@@ -5,7 +5,7 @@ export const Footer = () => {
     const socialMedia = [
         { href: 'https://www.instagram.com', image: `${process.env.PUBLIC_URL}/Instagram.svg`, alt: 'icon instagram' },
         { href: 'https://www.x.com', image: `${process.env.PUBLIC_URL}/Twitter.svg`, alt: 'icon twitter' },
-        { href: 'https://www.linkedin.com', image: `${process.env.PUBLIC_URL}/LinkedIN.svg`, alt: 'icon linkedin' },
+        { href: 'https://www.linkedin.com', image: `${process.env.PUBLIC_URL}/LinkedIn.svg`, alt: 'icon linkedin' },
         { href: 'https://www.facebook.com', image: `${process.env.PUBLIC_URL}/facebook.svg`, alt: 'icon facebook' },
     ];
     
